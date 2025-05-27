@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="currencies">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>INR</item>
+        <item>AUD</item>
+        <item>CAD</item>
+        <item>LKR</item>
+        <item>CNY</item>
+        <item>SGD</item>
+        <item>MYR</item>
+        <item>THB</item>
+        <item>IDR</item>
+        <item>PHP</item>
+        <item>VND</item>
+        <item>KRW</item>
+        <item>AED</item>
+        <item>SAR</item>
+        <item>QAR</item>
+    </string-array>
+</resources> 
